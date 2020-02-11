@@ -1,0 +1,11 @@
+/*   Group Name: VIVA
+     Group Members: Adam Nelson
+     Contact Info: adamnelson92@fullerton.edu
+     Description: style.css is the cascading style sheets file for Project 1. As of 2/6/20 it is just being used to center text */
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+canvas {
+  background-color: black;
+}
